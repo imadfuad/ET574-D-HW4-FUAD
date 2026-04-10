@@ -1,5 +1,6 @@
 # Name: Md Imad Fuad
 # QCC ID: 24772163
+# Copy kept only because test_slotmachine.py imports this file
 
 import random
 
